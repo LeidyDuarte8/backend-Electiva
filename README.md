@@ -1,5 +1,5 @@
 # Clonar repositorio
-git clone https://github.com/tu-usuario/backend-gestor.git
+git clone https://github.com/tu-usuario/backend-electiva.git
 cd backend-gestor
 
 # Instalar dependencias
